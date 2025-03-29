@@ -24,6 +24,9 @@ A storage management and file sharing platform that lets users effortlessly uplo
 * ShadCN
 * TypeScript
 
+  ## URL
+  https://storage-management-solution-beta.vercel.app/
+
 ## Screeshots:
 
 ![image](https://github.com/user-attachments/assets/f3491f5e-7c97-4a74-a679-70c99f118458)

@@ -24,8 +24,21 @@ A storage management and file sharing platform that lets users effortlessly uplo
 * ShadCN
 * TypeScript
 
+## Screeshots:
 
-  ![image](https://github.com/user-attachments/assets/15f87189-21d5-4585-9015-27cf6a656ad7)
+![image](https://github.com/user-attachments/assets/f3491f5e-7c97-4a74-a679-70c99f118458)
+
+
+![image](https://github.com/user-attachments/assets/7d93f2de-5e42-460d-88da-f4343d9e2b2e)
+
+
+![image](https://github.com/user-attachments/assets/b8a80772-d338-4075-b67a-ead6adb0f0b3)
+
+
+![image](https://github.com/user-attachments/assets/b9349366-334c-4de7-a4e4-283d612edd33)
+
+
+![image](https://github.com/user-attachments/assets/15f87189-21d5-4585-9015-27cf6a656ad7)
 
 
 ![image](https://github.com/user-attachments/assets/e30fd6ca-aef2-48c1-9259-1acf9f7f5542)
